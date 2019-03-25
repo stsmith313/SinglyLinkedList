@@ -1,0 +1,7 @@
+C:\Users\Sam\Documents\Data Structures\SinglyLinkedList1\SinglyLinkedList1\bin\Debug\SinglyLinkedList1.exe.config
+C:\Users\Sam\Documents\Data Structures\SinglyLinkedList1\SinglyLinkedList1\bin\Debug\SinglyLinkedList1.exe
+C:\Users\Sam\Documents\Data Structures\SinglyLinkedList1\SinglyLinkedList1\bin\Debug\SinglyLinkedList1.pdb
+C:\Users\Sam\Documents\Data Structures\SinglyLinkedList1\SinglyLinkedList1\obj\Debug\SinglyLinkedList1.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\Data Structures\SinglyLinkedList1\SinglyLinkedList1\obj\Debug\SinglyLinkedList1.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\Data Structures\SinglyLinkedList1\SinglyLinkedList1\obj\Debug\SinglyLinkedList1.exe
+C:\Users\Sam\Documents\Data Structures\SinglyLinkedList1\SinglyLinkedList1\obj\Debug\SinglyLinkedList1.pdb
